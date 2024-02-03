@@ -1,0 +1,1 @@
+{ "dependencies": { "hono": "./hono-4.0.0-rc.3.tgz", "vite": "^5.0.12" } }
